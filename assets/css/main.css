@@ -34,6 +34,7 @@ body {
 	padding-bottom: 40px;
 	padding-inline: 16px;
 	background-color: var(--color-white);
+	box-shadow: 0 25px 25px 0 rgba(0, 0, 0, 0.05);
 	border-radius: 20px;
 }
 
